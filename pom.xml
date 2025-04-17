@@ -42,5 +42,11 @@
       <version>1.6.1</version>
       <scope>runtime</scope>
     </dependency>
+    <dependency>
+      <groupId>com.github.lixichangmain</groupId>
+      <artifactId>lib-skin-support-aar</artifactId>
+      <version>1.0.0</version>
+      <scope>runtime</scope>
+    </dependency>
   </dependencies>
 </project>
